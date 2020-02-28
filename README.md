@@ -1,5 +1,5 @@
 # Can a market timing strategy outperform the monthly savings plan for index investing?
-I have been investing into ETFs (in particular the MSCI World ETF) for 2 years now and and invested a lot about 2 years ago when the prices were relatively low. As of today (Feb 2020) my MSCI World ETF value is about 30% higher than 2 years ago. Since September 2019 the prices have increased a lot. This made me reluctant to invest in the past 6 months and made me wait for better times with lower prices. But actually the prices kept increasing for months. I would need a drop of 20% for the MSCI World to get to a price that I rejected months ago because it seemed to high to invest at that time. This makes me overthink my strategy, whether it's really a good idea to wait for a good time to invest versus just doing it on a monthly basis no matter what's the current price. 
+I have been investing into ETFs (in particular the MSCI World ETF) for 2 years now and invested a lot about 2 years ago when the prices were relatively low. As of today (Feb 2020) my MSCI World ETF value is about 30% higher than 2 years ago. Since September 2019 the prices have increased a lot. This made me reluctant to invest in the past 6 months and made me wait for better times with lower prices. But actually the prices kept increasing for months. I would need a drop of 20% for the MSCI World to get to a price that I rejected months ago because it seemed to high to invest at that time. This makes me overthink my strategy, whether it's really a good idea to wait for a good time to invest versus just doing it on a monthly basis no matter what's the current price. 
 
 This is the motivation for a comparison between a monthly savings plan and a market timing strategy. The market timing strategy resembles my investment strategy of the past 2 years. It invests when the drop in price is high. 
 
@@ -17,5 +17,7 @@ But I'm just some Data Scientist with little experience in finance playing aroun
 
 # Summary of parameters used for this comparison
 monthly_savings = 1000 Dollar
+
 horizon_length = 20 years
+
 etf_idx = '^GSPC' (S&P 500)

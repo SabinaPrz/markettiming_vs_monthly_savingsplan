@@ -2,3 +2,4 @@
 !roi_grid_search_hybrid_strategy.csv
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+__pycache__/*
